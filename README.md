@@ -18,4 +18,4 @@ Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/DEIN-BENUTZERNAME/Secure-Vault-Generator.git](https://github.com/DEIN-BENUTZERNAME/Secure-Vault-Generator.git)
+   git clone [https://github.com/darismmj/Secure-Vault-Generator.git](https://github.com/darismmj/pygenerator.py)
