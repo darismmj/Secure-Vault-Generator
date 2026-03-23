@@ -27,15 +27,15 @@ Secrets Module - For generating secure random numbers.
 
 String Module - For easy access to character sets (ASCII, digits, punctuation).
 
-##🔒 Security Note
+ ## 🔒 Security Note
 This tool uses the secrets module, which is designed for cryptography and security-sensitive tasks. It provides a higher level of randomness than the standard random module, making it much harder for attackers to predict generated passwords.
 
-##🗺️ Roadmap / Future Ideas
+ ## 🗺️Roadmap / Future Ideas
 [ ] Add a Graphical User Interface (GUI) using Tkinter.
 
 [ ] Add a "Copy to Clipboard" feature.
 
 [ ] Create a batch mode (generate 10 passwords at once).
 
-##📄 License
+## 📄 License
 Distributed under the MIT License. See LICENSE for more information.
